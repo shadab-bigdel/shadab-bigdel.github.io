@@ -137,3 +137,16 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Hugo build folder
+/public/
+
+# MacOS system files
+.DS_Store
+
+# Node modules (if using any)
+node_modules/
+
+# IDE files (optional)
+*.idea/
+*.vscode/
